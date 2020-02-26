@@ -13,10 +13,10 @@
             <ul class="navbar-nav ml-auto">
                 <!-- Authentication Links -->
                      <li class="nav-item ">
-                        <a class="nav-link" href="#">Блог </a>
+                        <a class="nav-link .nav-item" href="/">Блог </a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="authorization.php">Регистрация/Авторизация</a>
+                        <a class="nav-link .nav-item" href="authorization.php">Регистрация/Авторизация</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="#">События</a>
@@ -31,3 +31,4 @@
         </div>
     </div>
 </nav>
+
